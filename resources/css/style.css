@@ -1,43 +1,30 @@
-html {
-	
-}
-
 body {
-	background-color: black;
-	color: white;
-	text-align: center;
+  background-color: black;
+  text-align: center;
+  font-family: "Verdana", sans-serif;
+  color: white;
 }
 
-.header-text {
-	font-family: Verdana;
-	font-weight: normal;
-	font-size: 50px;
+.cta {
+  color: aquamarine;
+  font-size: 16px;
 }
 
-.second-text {
-	font-family: Verdana;
-	font-weight: 300;
-	font-size: 42px;
+h1 {
+  font-size: 50px;
+  font-weight: normal;
 }
 
-.normal-text {
-	font-family: Verdana;
-	color: gray;
-	font-size: 21px;
+h2 {
+  font-size: 42px;
+  font-weight: 300;
 }
 
-.download-msg {
-	color: aquamarine;
-	font-size: 16px;
+p {
+  font-size: 21px;
+  color: gray;
 }
 
-#phone-image-container {
-	padding: 15px;
-}
-
-#copyright {
-	text-align: right;
-	color: gray;
-	font-size: 19px;
-	padding-right: 15px;
-}
+.footer {
+  text-align: right;
+} 
